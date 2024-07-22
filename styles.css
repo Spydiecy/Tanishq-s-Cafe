@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('http://coffeeipsum.com/img/backgrounds/matt-hoffman-PsIRpaKBCyM-unsplash.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.jumbotron {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 4rem 2rem;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+footer .text-center {
+    margin: 0;
+}
